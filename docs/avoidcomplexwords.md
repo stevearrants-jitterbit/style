@@ -8,7 +8,6 @@ as a way to distance themselves from the text or as a way of sounding authoritat
 or phrases are required due to regulation or contract, use the shorter, simpler word or phrase.
 
 |  [A](#A) 	| [BC](#BC)  	|   [DF](#DF)	|   [IL](#IL)	|  [MP](#MP)	|  [RU](#RU) 	|
-|---	|---	|---	|---	|---	|---	|
    
 <a name="A">A</a>
 ---------------------------------------
