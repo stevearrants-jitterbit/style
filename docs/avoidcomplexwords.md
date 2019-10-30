@@ -3,7 +3,8 @@ Avoid Complex Words
 
 Use shorter words that aren't ambiguous
 ----------------------------------------------------
-
+A
+---------------------------------------
 * abort, kill, terminate (except in technical, programming documentation)
 * abundance: plenty
 * accelerate: speed up
@@ -125,4 +126,4 @@ Use shorter words that aren't ambiguous
 * utilization: use
 * utilize. *Useis a better choice. 
 * utilize: use
-* 
+ 
