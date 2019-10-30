@@ -42,11 +42,186 @@ Words to avoid
 * input -- use *type* or *enter* or *select*
 * simple or simply. Avoid these as something simple to a power user isn't so simple to a new user.
 * utilize. *Use* is a better choice. 
+"approximate(?:ly)?": about
 
-What about legal terms?
------------------------
+  abundance: plenty
+  accelerate: speed up
+  accentuate: stress
+  accompany: go with
+  accomplish: carry out|do
+  accorded: given
+  accordingly: so
+  accrue: add
+  accurate: right|exact
+  acquiesce: agree
+  acquire: get|buy
+  additional: more|extra
+  address: discuss
+  addressees: you
+  adjacent to: next to
+  adjustment: change
+  admissible: allowed
+  advantageous: helpful
+  advise: tell
+  aggregate: total
+  aircraft: plane
+  alleviate: ease
+  allocate: assign|divide
+  alternatively: or
+  alternatives: choices|options
+  ameliorate: improve
+  amend: change
+  anticipate: expect
+  apparent: clear|plain
+  ascertain: discover|find out
+  assistance: help
+  attain: meet
+  attempt: try
+  authorize: allow
+  belated: late
+  bestow: give
+  cease: stop|end
+  collaborate: work together
+  commence: begin
+  compensate: pay
+  component: part
 
-**Never** rewrite legal information, such as a copyright, terms of use
-statements, privacy statement, or other document that could open SJS to
-litigation. These documents are express or implied contracts. Ask our
-legal department for assistance.
+  comprise: form|include
+
+  concept: idea
+
+  concerning: about
+
+  confer: give|award
+
+  consequently: so
+
+  consolidate: merge
+
+  constitutes: forms
+
+  contains: has
+
+  convene: meet
+
+  demonstrate: show|prove
+
+  depart: leave
+
+  designate: choose
+
+  desire: want|wish
+
+  determine: decide|find
+
+  detrimental: bad|harmful
+
+  disclose: share|tell
+
+  discontinue: stop
+
+  disseminate: send|give
+
+  eliminate: end
+
+  elucidate: explain
+
+  employ: use
+
+  enclosed: inside|included
+
+  encounter: meet
+
+  endeavor: try
+
+  enumerate: count
+
+  equitable: fair
+
+  equivalent: equal
+
+  exclusively: only
+
+  expedite: hurry
+
+  facilitate: ease
+
+  females: women
+
+  finalize: complete|finish
+
+  frequently: often
+
+  identical: same
+
+  incorrect: wrong
+
+  indication: sign
+
+  initiate: start|begin
+
+  itemized: listed
+
+  jeopardize: risk
+
+  liaise: work with|partner with
+
+  maintain: keep|support
+
+  methodology: method
+
+  modify: change
+
+  monitor: check|watch
+
+  multiple: many
+
+  necessitate: cause
+
+  notify: tell
+
+  numerous: many
+
+  objective: aim|goal
+
+  obligate: bind|compel
+
+  optimum: best|most
+
+  permit: let
+
+  portion: part
+
+  possess: own
+
+  previous: earlier
+
+  previously: before
+
+  prioritize: rank
+
+  procure: buy
+
+  provide: give|offer
+
+  purchase: buy
+
+  relocate: move
+
+  solicit: request
+
+  state-of-the-art: latest
+
+  subsequent: later|next
+
+  substantial: large
+
+  sufficient: enough
+
+  terminate: end
+
+  transmit: send
+
+  utilization: use
+
+  utilize: use
