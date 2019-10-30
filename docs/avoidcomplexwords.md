@@ -7,8 +7,6 @@ Shorter words are often more accurate and less ambiguous. Writers sometimes use 
 as a way to distance themselves from the text or as a way of sounding authoritative. Unless certain words 
 or phrases are required due to regulation or contract, use the shorter, simpler word or phrase.
 
-|  [A](#A) 	| [BC](#BC)  	|   [DF](#DF)	|   [IL](#IL)	|  [MP](#MP)	|  [RU](#RU) 	|
-   
 <a name="A">A</a>
 ---------------------------------------
 * abort, kill, terminate (except in technical, programming documentation)
