@@ -3,7 +3,14 @@ Avoid Complex Words
 
 Use shorter words that aren't ambiguous
 ----------------------------------------------------
-A
+Shorter words are often more accurate and less ambiguous. Writers sometimes use long, complex words
+as a way to distance themselves from the text or as a way of sounding authoritative. Unless certain words 
+or phrases are required due to regulation or contract, use the shorter, simpler word or phrase.
+
+|  [A](#A) 	| [BC](#BC)  	|   [DF](#DF)	|   [IL](#IL)	|  [MP](#MP)	|  [RU](#RU) 	|
+|---	|---	|---	|---	|---	|---	|
+   
+<a name="A">A</a>
 ---------------------------------------
 * abort, kill, terminate (except in technical, programming documentation)
 * abundance: plenty
@@ -41,6 +48,9 @@ A
 * attain: meet
 * attempt: try
 * authorize: allow
+
+<a name="BC">B-C</a>
+-----------------------
 * belated: late
 * bestow: give
 * cease: stop or end
@@ -58,6 +68,9 @@ A
 * constitutes: forms
 * contains: has
 * convene: meet
+
+<a name="DF">D-F</a>>
+-----------------------
 * demonstrate: show or prove
 * depart: leave
 * designate: choose
@@ -84,6 +97,9 @@ A
 * females: women
 * finalize: complete or finish
 * frequently: often
+
+<a name="IL">I-L</a>
+-------------------
 * identical: same
 * in order to:use *to*
 * incorrect: wrong
@@ -94,6 +110,9 @@ A
 * itemized: listed
 * jeopardize: risk
 * liaise: work with or partner with
+
+<a name="MP">M-P</a>
+--------------------------
 * maintain: keep or support
 * methodology: method
 * modify: change
@@ -114,6 +133,9 @@ A
 * procure: buy
 * provide: give or offer
 * purchase: buy
+
+<a name="RU">R-U</a>
+-------------------------
 * relocate: move
 * simple or simply. Avoid these as something simple to a power user isn't so simple to a new user.
 * solicit: request
